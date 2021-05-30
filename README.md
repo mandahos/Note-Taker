@@ -1,7 +1,7 @@
 # Note-Taker
 
 ## Purpose
-A brief explanation on the project/page
+The point of the page is to add notes to be avaiable at a later time.
 
 ## Built With
 * Heroku
@@ -10,9 +10,11 @@ A brief explanation on the project/page
 
 
 ## Website
-Put link here
+ https://mandahos.github.io/Note-Taker/
+ https://stormy-harbor-19046.herokuapp.com/notes
 
 # Contribution
 Made with ✨ by Amanda
 
 ### copyright 
+
