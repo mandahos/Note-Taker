@@ -18,3 +18,4 @@ Made with ✨ by Amanda
 
 ### copyright 
 
+![note-taker](https://user-images.githubusercontent.com/73262787/120113359-59452d80-c137-11eb-828c-8e0db485501c.png)
